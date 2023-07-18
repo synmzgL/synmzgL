@@ -1,5 +1,6 @@
 Hello, _I'm Sayeste_ 
-- I'm interested in C# and C
+- I'm interested in C, C#, .net, reactjs, angular
+- I aim to improve myself continuously.
 - 🌱 I’m currently learning .Net, .Net Core Web Api, React js and Angular.
 - ♥  I am passionate about software development.
 - ☺  I am open to any of your advice!
